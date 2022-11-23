@@ -208,6 +208,17 @@ aside img {
 	}
 }
 
+@media screen and (max-width: 600px) {
+	header img {
+		float: none;
+	}
+	header {
+		margin: auto;
+		width: 50%;
+	}
+
+}
+
 /* the styles for the footer */
 
 footer {
